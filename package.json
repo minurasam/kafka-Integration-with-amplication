@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "start": "npm --prefix Kafka-integration start",
+      "postinstall": "npm i --prefix Kafka-integration"
+    }
+  }
