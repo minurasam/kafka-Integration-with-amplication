@@ -42,8 +42,7 @@
     "swagger-ui-express": "4.3.0",
     "ts-node": "10.9.1",
     "validator": "^13.9.0",
-    "@nestjs/microservices": "8.2.3",
-    "kafkajs": "2.2.0"
+    "@nestjs/microservices": "8.2.3"
   },
   "devDependencies": {
     "@nestjs/cli": "8.2.5",
